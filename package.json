@@ -1,0 +1,13 @@
+{
+  "name": "ProjectCrawl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Victor Ngo <vngo@digitalpromise.org>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "crawler": "^1.1.2"
+  }
+}
